@@ -6,9 +6,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-3.4.1-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-5.10.0-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
+![Bootstrap Icons](https://img.shields.io/badge/Bootstrap_Icons-1.4.1-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Owl Carousel](https://img.shields.io/badge/Owl_Carousel-2.3.4-E44D26?style=for-the-badge&logoColor=white)
 ![WOW.js](https://img.shields.io/badge/WOW.js-Animate.css-FF6B6B?style=for-the-badge&logoColor=white)
+![Tempus Dominus](https://img.shields.io/badge/Tempus_Dominus-Bootstrap_4-563D7C?style=for-the-badge&logoColor=white)
+![Moment.js](https://img.shields.io/badge/Moment.js-222222?style=for-the-badge&logoColor=white)
 
 ![Restoran Preview](img/bootstrap-restaurant-template.jpg)
 
@@ -147,3 +150,4 @@ No build step or server required — pure static HTML/CSS/JS.
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
